@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology.javaqa</groupId>
-    <artifactId>Project10_Questionnaire_mvn</artifactId>
+    <artifactId>Project12_MovieManager_mvn_CI_v2</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
